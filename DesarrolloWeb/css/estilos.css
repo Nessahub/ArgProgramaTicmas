@@ -1,0 +1,11 @@
+p {
+    color: red;
+    width: 300px;
+}
+/**
+esto es un comentario de ntro de un document de CSS
+*/
+h1 {
+    font-weight: bold;
+    color: grey;
+}
